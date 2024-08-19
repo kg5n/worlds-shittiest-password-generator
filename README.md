@@ -1,7 +1,7 @@
 This is the worlds most shitty password generator. How to use
 > [!NOTE]
 >
-> u can put smnthn in "passwrd" put you have to put it in the '' like this:
+> u can put smnthn in "passwrd" but you have to put it in the '' like this:
 ```python
 passwrd = 'github_'
 ```
